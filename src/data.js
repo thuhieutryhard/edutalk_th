@@ -1,0 +1,86 @@
+export const data = [
+    {
+      name: "Hoàng Thị Thu Thuỳ",
+      office: "Edutalk Tam Khương",
+      revenue: "398.000.000 đ",
+      position: "Đạt chỉ tiêu 1 GĐVP",
+    },
+    {
+      name: "Nguyễn Lê Niên",
+      office: "Edutalk Tam Khương",
+      revenue: "397.000.000 đ",
+      position: "Tân SL Master",
+    },
+    {
+      name: "Trịnh Viết Dương",
+      office: "Edutalk Trung Liệt",
+      revenue: "220.000.000 đ",
+      position: "Tân SL Executive",
+    },
+    {
+      name: "Nguyễn Viết Sơn",
+      office: "Edutalk Tam Khương",
+      revenue: "280.000.000 đ",
+      position: "Đạt chỉ tiêu 1 Sale Leader",
+    },
+    {
+      name: "Lê Tiến Dũng",
+      office: "Edutalk Tam Khương",
+      revenue: "197.000.000 đ",
+      position: "Đạt chỉ tiêu 1 Sale Leader",
+    },
+    {
+      name: "Trần Thị Thu Trang",
+      office: "Edutalk Trung Liệt",
+      revenue: "191.000.000 đ",
+      position: "Đạt chỉ tiêu 1 Sale Leader",
+    },
+    {
+      name: "Vũ Quỳnh Anh",
+      office: "Edutalk Trung Liệt",
+      revenue: "150.455.454 đ",
+      position: "Tân Sale Master",
+    },
+    {
+      name: "Nguyễn Văn Bảo Long",
+      office: "Edutalk Tam Khương",
+      revenue: "98.717.530 đ",
+      position: "Tân Sale Master",
+    },
+    {
+      name: "Giàng Thị Thiên Hương",
+      office: "Edutalk Tam Khương",
+      revenue: "85.000.000 đ",
+      position: "Tân Sale Master",
+    },
+    {
+      name: "Bùi Ngọc Mai",
+      office: "Edutalk Trung Liệt",
+      revenue: "48.142.500 đ",
+      position: "Tân Sale Pro",
+    },
+    {
+      name: "Nguyễn Lan Anh",
+      office: "Edutalk Trung Liệt",
+      revenue: "65.323.125 đ",
+      position: "Tân Sale Executive",
+    },
+    {
+      name: "Trịnh Thị Vân Anh",
+      office: "Edutalk Tam Khương",
+      revenue: "80.000.000 đ",
+      position: "Tân Sale Executive",
+    },
+    {
+      name: "Nguyễn Hải Đăng",
+      office: "Edutalk Tam Khương",
+      revenue: "154.000.000 đ",
+      position: "CTV xuất sắc nhất",
+    },
+    {
+      name: "Nguyễn Minh Phương",
+      office: "Edutalk Tam Khương",
+      revenue: "65.000.000 đ",
+      position: "Tân Sale Executive",
+    },
+  ];
