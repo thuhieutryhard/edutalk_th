@@ -39,24 +39,24 @@ export const data = [
       name: "Nguyễn Thị Lan Anh",
       office: "Edutalk Trung Liệt",
       revenue: "68.938.485 đ",
-      position: "Sale Executive tiêu chuẩn",
+      position: "Sale Executive Tiêu Chuẩn",
     },
     {
       name: "Đỗ Thị Thu Trang",
       office: "Edutalk Trung Liệt",
       revenue: "65.459.500 đ",
-      position: "Sale Junior lý tưởng",
+      position: "Sale Junior Lý Tưởng",
     },
     {
       name: "Lê Thị Mai Trang",
       office: "Edutalk Tam Khương",
       revenue: "55.699.000 đ",
-      position: "Tân Sale Rookie",
+      position: "Sale Junior Xuất Sắc",
     },
     {
       name: "Nguyễn Hải Đăng",
       office: "Edutalk Tam Khương",
       revenue: "54.135.000 đ",
-      position: "Sale Junior lý tưởng",
+      position: "Sale Junior Lý Tưởng",
     },
   ];
