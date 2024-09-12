@@ -3,13 +3,13 @@ export const data = [
       name: "Hoàng Thị Thu Thùy",
       office: "Edutalk Tam Khương",
       revenue: "662.426.251 đ",
-      position: "Đạt chỉ tiêu 2 GĐVP",
+      position: "Sale Leader Lý Tưởng",
     },
     {
       name: "Nguyễn Lê Niên",
       office: "Edutalk Tam Khương",
       revenue: "348.999.177 đ",
-      position: "",
+      position: "Sale Leader Tiêu Chuẩn",
     },
     {
       name: "Trịnh Viết Dương",
@@ -27,25 +27,25 @@ export const data = [
       name: "Nguyễn Văn Bảo Long",
       office: "Edutalk Tam Khương",
       revenue: "220.143.354 đ",
-      position: "Đạt chỉ tiêu 1 Sale Leader",
+      position: "Sale Master Tiên Phong",
     },
     {
       name: "Lê Tiến Dũng",
       office: "Edutalk Tam Khương",
       revenue: "176.318.000 đ",
-      position: "Đạt chỉ tiêu 1 Sale Leader",
+      position: "Sale Master Tiêu Chuẩn",
     },
     {
       name: "Nguyễn Thị Lan Anh",
       office: "Edutalk Trung Liệt",
       revenue: "68.938.485 đ",
-      position: "Tân Sale Pro",
+      position: "Sale Executive tiêu chuẩn",
     },
     {
       name: "Đỗ Thị Thu Trang",
       office: "Edutalk Trung Liệt",
       revenue: "65.459.500 đ",
-      position: "Tân Sale Executive",
+      position: "Sale Junior lý tưởng",
     },
     {
       name: "Lê Thị Mai Trang",
@@ -57,6 +57,6 @@ export const data = [
       name: "Nguyễn Hải Đăng",
       office: "Edutalk Tam Khương",
       revenue: "54.135.000 đ",
-      position: "Doanh số CTV nổi bật",
+      position: "Sale Junior lý tưởng",
     },
   ];
