@@ -9,7 +9,7 @@ export const data = [
       name: "Nguyễn Lê Niên",
       office: "Edutalk Tam Khương",
       revenue: "348.999.177 đ",
-      position: "Sale Leader Tiêu Chuẩn",
+      position: "Sale Leader Tiên Phong",
     },
     {
       name: "Trịnh Viết Dương",
