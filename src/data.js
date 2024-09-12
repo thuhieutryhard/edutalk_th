@@ -57,6 +57,6 @@ export const data = [
       name: "Nguyễn Hải Đăng",
       office: "Edutalk Tam Khương",
       revenue: "54.135.000 đ",
-      position: "Sale Junior Lý Tưởng",
+      position: "Sale Junior Xuất Sắc",
     },
   ];
