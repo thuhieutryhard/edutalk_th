@@ -142,7 +142,7 @@ function App() {
           fontSize={45}
           color="white"
         >
-          VINH DANH TÂN CẤP THÁNG 08/2024
+          VINH DANH TÂN CẤP THÁNG 09/2024
         </Typography>
 
         <TableContainer
