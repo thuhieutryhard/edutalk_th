@@ -129,7 +129,7 @@ function App() {
           fontStyle="italic"
           color="white"
         >
-          DÁM NGHĨ LỚN - LÀM LỚN
+          DÁM NGHĨ LỚN - DÁM LÀM LỚN
         </Typography>
 
         <Typography
@@ -142,7 +142,7 @@ function App() {
           fontSize={45}
           color="white"
         >
-          VINH DANH TÂN CẤP THÁNG 09/2024
+          VINH DANH TÂN CẤP THÁNG 10/2024
         </Typography>
 
         <TableContainer
